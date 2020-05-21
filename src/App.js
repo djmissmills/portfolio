@@ -10,7 +10,7 @@ class App extends Component {
       {label: 'About', link: '#about'},
       {label: 'Skills', link: '#skills'},
       {label: 'Portfolio', link: '#portfolio'},
-      {label: 'Contact', link: '#contact'},
+      {label: 'Contact', link: '#contacts'},
     ];
 
 
